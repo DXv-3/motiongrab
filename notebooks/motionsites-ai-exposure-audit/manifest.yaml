@@ -1,0 +1,148 @@
+name: motionsites.ai Exposure Audit
+language: python
+id: 8d7b04fe-1f3f-406f-a151-0b6f6be266f3
+primary_branch_id: c800cf5b-0afd-4372-9f56-35e2920f6c1e
+branches:
+  - id: c800cf5b-0afd-4372-9f56-35e2920f6c1e
+    name: main
+    cells:
+      - id: ce37e1d7-9581-45ca-b56b-f86b547ac073
+        type: markdown
+        position: 0
+        parent: null
+        language: python
+      - id: c12e3a51-295a-4a31-b6ae-de778e29b2df
+        type: code
+        position: 1
+        parent: ce37e1d7-9581-45ca-b56b-f86b547ac073
+        language: python
+      - id: ef0bb2cf-e8ab-480e-83ce-2fdeafa3784b
+        type: markdown
+        position: 2
+        parent: c12e3a51-295a-4a31-b6ae-de778e29b2df
+        language: python
+      - id: 4d4f4369-5133-42ce-972f-a3f18ad11b5b
+        type: code
+        position: 3
+        parent: ef0bb2cf-e8ab-480e-83ce-2fdeafa3784b
+        language: python
+      - id: 61e716cf-b3cb-46e0-9226-f5f7c88bfc22
+        type: code
+        position: 4
+        parent: 4d4f4369-5133-42ce-972f-a3f18ad11b5b
+        language: python
+      - id: 368ec146-6701-48cb-b603-22b5a68ae901
+        type: code
+        position: 5
+        parent: 61e716cf-b3cb-46e0-9226-f5f7c88bfc22
+        language: python
+      - id: c14d7fbd-6174-4664-b148-79a7815daa04
+        type: markdown
+        position: 6
+        parent: 368ec146-6701-48cb-b603-22b5a68ae901
+        language: python
+      - id: 019faad4-2b49-4160-9e25-48d5ed0e5e90
+        type: code
+        position: 7
+        parent: c14d7fbd-6174-4664-b148-79a7815daa04
+        language: python
+      - id: a8eeb5e0-df34-4365-b833-27234d6d8aa4
+        type: code
+        position: 8
+        parent: 019faad4-2b49-4160-9e25-48d5ed0e5e90
+        language: python
+      - id: 8b0ca27d-74ac-4f88-973b-d06084406bba
+        type: code
+        position: 9
+        parent: a8eeb5e0-df34-4365-b833-27234d6d8aa4
+        language: python
+      - id: f612a32a-d42c-4fa5-a46f-2ba2916a8afc
+        type: code
+        position: 10
+        parent: 8b0ca27d-74ac-4f88-973b-d06084406bba
+        language: python
+      - id: 6e99112a-d3e0-442d-8e00-2b181ccfe5f0
+        type: code
+        position: 11
+        parent: f612a32a-d42c-4fa5-a46f-2ba2916a8afc
+        language: python
+      - id: 9b482c9b-080f-4a0b-9a43-5218ee734aa6
+        type: markdown
+        position: 12
+        parent: 6e99112a-d3e0-442d-8e00-2b181ccfe5f0
+        language: python
+      - id: 4f23a11f-baf6-4ca9-9b93-6b27c5ce1a7d
+        type: markdown
+        position: 13
+        parent: 9b482c9b-080f-4a0b-9a43-5218ee734aa6
+        language: python
+      - id: 4e82737f-cd5b-4b9e-8299-09b61c2e7d58
+        type: code
+        position: 14
+        parent: 4f23a11f-baf6-4ca9-9b93-6b27c5ce1a7d
+        language: python
+      - id: 716d8de3-ba74-43be-8408-a7da36970104
+        type: markdown
+        position: 15
+        parent: 4e82737f-cd5b-4b9e-8299-09b61c2e7d58
+        language: python
+      - id: 4232a105-2ce6-4c95-9e6d-c88429165512
+        type: markdown
+        position: 16
+        parent: 716d8de3-ba74-43be-8408-a7da36970104
+        language: python
+      - id: 929e77e2-2abc-4207-8a82-ff0b54e67e92
+        type: code
+        position: 17
+        parent: 4232a105-2ce6-4c95-9e6d-c88429165512
+        language: python
+      - id: 4e62c470-be8d-40e2-ac79-63c44b0f20e8
+        type: code
+        position: 18
+        parent: 929e77e2-2abc-4207-8a82-ff0b54e67e92
+        language: python
+      - id: 27b7d9b1-8290-4c1b-8167-a22065d6a506
+        type: code
+        position: 19
+        parent: 4e62c470-be8d-40e2-ac79-63c44b0f20e8
+        language: python
+      - id: 933272cc-e767-4dc4-a7d1-b9ec8a0d538a
+        type: code
+        position: 20
+        parent: 27b7d9b1-8290-4c1b-8167-a22065d6a506
+        language: python
+      - id: 3534a667-6c05-4911-bcc6-ba6cd541e31b
+        type: code
+        position: 21
+        parent: 933272cc-e767-4dc4-a7d1-b9ec8a0d538a
+        language: python
+      - id: fb222703-b5ca-46f8-97a1-68227290e029
+        type: code
+        position: 22
+        parent: 3534a667-6c05-4911-bcc6-ba6cd541e31b
+        language: python
+      - id: a1e02acf-6792-4af1-8467-d3bc20273e8a
+        type: code
+        position: 23
+        parent: fb222703-b5ca-46f8-97a1-68227290e029
+        language: python
+      - id: c5caf7a9-8456-470e-b0b1-ba2aabe93363
+        type: code
+        position: 24
+        parent: a1e02acf-6792-4af1-8467-d3bc20273e8a
+        language: python
+      - id: ce08bf34-bad9-479f-98a4-00a1998edd1b
+        type: code
+        position: 25
+        parent: c5caf7a9-8456-470e-b0b1-ba2aabe93363
+        language: python
+      - id: fecc1fc9-edc8-4a01-8cab-cebe8346a579
+        type: code
+        position: 26
+        parent: ce08bf34-bad9-479f-98a4-00a1998edd1b
+        language: python
+      - id: 06989b44-cc04-4024-8905-c51176002102
+        type: markdown
+        position: 27
+        parent: fecc1fc9-edc8-4a01-8cab-cebe8346a579
+        language: python
